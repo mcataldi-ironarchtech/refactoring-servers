@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "refactoring-app-again"
+    }
+  },
+  "defaultProject": "refactoring-app-again",
+  "cli": {
+    "analytics": "e996f3c3-4282-4f6e-9e78-17bc8c943204"
+  }
 }
