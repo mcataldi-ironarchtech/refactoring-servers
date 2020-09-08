@@ -1,7 +1,5 @@
 import { Component, ViewEncapsulation } from '@angular/core';
-import { CockpitComponent } from './cockpit/cockpit.component';
 
-// import { Server } from './shared/server.model';
 
 @Component({
   selector: 'app-root',
