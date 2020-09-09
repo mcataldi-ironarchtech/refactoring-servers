@@ -1,3 +1,3 @@
 export class Server {
-    constructor(type: string, name: string, content: string){}
+    constructor(public name: string, public content: string){}
 }
